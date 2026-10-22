@@ -65,8 +65,6 @@ Vacuum treatment amplifies wear via turbulent shear and thermal cycling:
 
 $$\text{IF}(t_{\text{VTD}}) = \begin{cases} 1 & t_{\text{VTD}} \le 20 \\ 1 + \frac{t_{\text{VTD}} - 20}{20} & t_{\text{VTD}} > 20 \end{cases}$$
 
-$$\text{IF}(t_{\text{VTD}}) = \begin{cases} 1 & t_{\text{VTD}} \le 20 \\ 1 + \frac{t_{\text{VTD}} - 20}{20} & t_{\text{VTD}} > 20 \end{cases}$$
-
 The binary VTD flag in the historical CSV is mapped to **0 min (no VTD)** or **25 min (VTD on)** → IF = 1.25×.
 
 ---
