@@ -49,7 +49,7 @@ Two reactions dominate the exothermic energy budget:
 
 For a heat with mass fractions f_Si and f_Al:
 
-$$E_{\text{exo}} = 10^6 \left( f_{\text{Si}} \cdot 32.43 + f_{\text{Al}} \cdot 31.04 \right) \quad [\text{kJ/t}]$$
+$E_{\text{exo}} = 10^6 \left( f_{\text{Si}} \cdot 32.43 + f_{\text{Al}} \cdot 31.04 \right) \quad [\text{kJ/t}]$
 
 ### 2.2 Normalized Exothermic Delta
 
